@@ -1,5 +1,7 @@
 This is a web application project with a Doordash like project. The web provides three restaurants for customers to order food online. Here are the summary of the project.
 
+Demo: https://recordit.co/9kb2LHFPsm
+
 HappyEat: A Spring and Hibernate based online food ordering system 
 
 ● Implemented Rest API via Spring MVC including registration, menu searching, ordering, checkout etc.
